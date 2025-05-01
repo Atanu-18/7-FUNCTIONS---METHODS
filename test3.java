@@ -14,7 +14,7 @@ public class test3 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        int product = calculateProduct(a, b);
+        int product = calculateProduct(a, b);         // call function
 
         System.out.println("The product of 2 no is : " + product);
 
