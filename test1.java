@@ -17,7 +17,7 @@ public class test1 {
         int n2 = sc.nextInt();
 
         int sum = sumNumber(n1, n2);
-        System.out.println("Sum of two no is : " + sum);
+        System.out.println("Sum of two no is : " + sum);         // function call
 
         sc.close();
     }
